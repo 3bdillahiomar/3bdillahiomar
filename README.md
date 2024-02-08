@@ -1,5 +1,5 @@
 
-# Hi there, I'm Omar 👋
+# Hi, I'm Abdillahi Osman Omar 👋
 
 ## ML/AI/GIS Developer & MGEO-Geoinformatics Student
 
