@@ -27,7 +27,7 @@ I'm currently pursuing my MGEO in Geoinformatics at ITC, University of Twente, f
 ### 📫 How to Reach Me
 
 - **GitHub:** [@3bdillahiomar](https://github.com/3bdillahiomar)
-- **LinkedIn:** [Abdillahi Osman](https://www.linkedin.com/in/abdillahi-osman-7b2724173/)
+- **LinkedIn:** [Abdillahi Osman](https://www.linkedin.com/in/abdillahi-osman-omar-7b2724173/)
 - **Email:** [abdillahiosmanomar@student.utwente.nl](mailto:abdillahiosmanomar@student.utwente.nl)
 
 ### ✨ Join Me
