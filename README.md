@@ -1,8 +1,6 @@
 
 # Hi, I'm Abdillahi Osman Omar 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=3bdillahiomar.3bdillahiomar)
-
 ## ML/AI/GIS Developer & MGEO-Geoinformatics Student
 
 I'm currently pursuing my MGEO in Geoinformatics at ITC, University of Twente, focusing on the intersection of Machine Learning (ML), Artificial Intelligence (AI), and Geographic Information Systems (GIS). My passion lies in leveraging technology to understand and protect our environment, offering insights that lead to actionable solutions for a sustainable future.
