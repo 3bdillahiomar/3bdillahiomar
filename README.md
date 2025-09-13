@@ -1,13 +1,12 @@
-
 # Hi, I'm Abdillahi Osman Omar 👋
 
-## MGEO-Geoinformatics Student
+## Geospatial Data Engineer
 
-I'm currently pursuing my MGEO in Geoinformatics at ITC, University of Twente, focusing on the intersection of Machine Learning (ML), Artificial Intelligence (AI), and Geographic Information Systems (GIS). My passion lies in leveraging technology to understand and protect our environment, offering insights that lead to actionable solutions for a sustainable future.
+I'm a Geospatial Data Engineer with a background in Geoinformatics (GeoAI) from ITC, University of Twente, focusing on the intersection of Machine Learning (ML), Artificial Intelligence (AI), and Geographic Information Systems (GIS). My passion lies in using technology to understand and protect our environment, offering information that lead to actionable solutions for a sustainable future.
 
 ### 🌍 About Me
 
-- 🎓 Pursuing a Master's in Geoinformatics (MGEO) at [ITC, University of Twente](https://www.itc.nl/).
+- 🎓 Graduate of a Master's in Geoinformatics (GeoAI) at [ITC, University of Twente](https://www.itc.nl/).
 - 💻 Experienced in ML/AI and GIS, working on projects that analyze spatial data to solve complex problems.
 - 🌱 Passionate about environmental stewardship and the role of technology in natural hazards.
 - 🤝 Looking to collaborate on projects that combine ML/AI with geospatial analysis to drive environmental initiatives.
@@ -16,11 +15,11 @@ I'm currently pursuing my MGEO in Geoinformatics at ITC, University of Twente, f
 
 - Developing tools and applications for geospatial data analysis and visualization.
 - Exploring the use of AI in predicting and mitigating environmental risks.
-- Engaging in research projects at the University of Twente, focusing on innovative solutions for sustainable development.
+- Engaging in research and development projects focusing on innovative solutions for sustainable development.
 
 ### 🛠 Skills
 
-- **Languages:** Python, SQL, R, JavaScript, HTMLL, CSS
+- **Languages:** Python, SQL, R, JavaScript, HTML, CSS
 - **Tools & Technologies:** QGIS, ArcGIS, TensorFlow, PyTorch, Docker, GDAL, GEE
 - **Fields of Interest:** Remote Sensing, Spatial Analysis, Natural Hazards
 
@@ -32,4 +31,4 @@ I'm currently pursuing my MGEO in Geoinformatics at ITC, University of Twente, f
 
 ### ✨ Join Me
 
-Let's explore the world of geoinformatics together, where technology meets environmental stewardship. Together, we can shape a brighter tomorrow through spatial insights. Follow my journey as a MGEO-Geoinformatics student and ML/AI/GIS developer.
+Let's explore the world of geoinformatics together, where technology meets environmental stewardship. Together, we can shape a brighter tomorrow through spatial insights. Follow my journey as a Geospatial Data Engineer and ML/AI/GIS developer.
