@@ -2,19 +2,19 @@
 
 ## Geospatial Data Engineer
 
-I'm a Geospatial Data Engineer with a background in Geoinformatics (GeoAI) from ITC, University of Twente, focusing on the intersection of Machine Learning (ML), Artificial Intelligence (AI), and Geographic Information Systems (GIS). My passion lies in using technology to understand and protect our environment, offering information that lead to actionable solutions for a sustainable future.
+I'm a Geospatial Data Engineer with a background in Geoinformatics (GeoAI) from ITC, University of Twente, focusing on the intersection of Machine Learning (ML), Artificial Intelligence (AI), and Geographic Information Systems (GIS). My passion is using geospatial technology to understand and solve critical societal and environmental challenges.
 
 ### 🌍 About Me
 
 - 🎓 Graduate of a Master's in Geoinformatics (GeoAI) at [ITC, University of Twente](https://www.itc.nl/).
 - 💻 Experienced in ML/AI and GIS, working on projects that analyze spatial data to solve complex problems.
-- 🌱 Passionate about environmental stewardship and the role of technology in natural hazards.
+- 🌱 Passionate about the role of geospatial technology in dealing with natural hazards.
 - 🤝 Looking to collaborate on projects that combine ML/AI with geospatial analysis to drive environmental initiatives.
 
 ### 🚀 What I'm Working On
 
 - Developing tools and applications for geospatial data analysis and visualization.
-- Exploring the use of AI in predicting and mitigating environmental risks.
+- Exploring the use of AI in predicting and anticipating disaster risks.
 - Engaging in research and development projects focusing on innovative solutions for sustainable development.
 
 ### 🛠 Skills
