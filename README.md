@@ -27,7 +27,6 @@ I'm a Geospatial Data Engineer with a background in Geoinformatics (GeoAI) from 
 
 - **GitHub:** [@3bdillahiomar](https://github.com/3bdillahiomar)
 - **LinkedIn:** [Abdillahi Osman](https://www.linkedin.com/in/abdillahi-osman-omar-7b2724173/)
-- **Email:** [abdillahiosmanomar@student.utwente.nl](mailto:abdillahiosmanomar@student.utwente.nl)
 
 ### ✨ Join Me
 
